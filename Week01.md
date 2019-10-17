@@ -33,6 +33,7 @@ Images and examples shown in class can be found in this week's `Images` folder.
 - John Cage expanded these ideas into his compositional and visual art practice in the 1950s, using improvisation, graphical scores, and tools like coin tosses and the *I Ching* (an ancient Chinese book used for divination)  
 - Compare Cage's seminal [*Music of Changes*](https://youtu.be/Yn3QZzw0vlY) (read more about this piece [here](http://www.lovely.com/albumnotes/notes2053.html)) with music like [Black MIDI](https://rhizome.org/editorial/2013/sep/23/impossible-music-black-midi/)  
 - Later artists would embrace this chaotic look and sound in more radical ways, like William S. Burroughs' [cut-up](https://www.youtube.com/watch?v=Uq_hztHJCM4) technique  
+- We can think of "chance operations" as any means of making decision in your work that come from unpredictable sources: gravity, shuffling, wind, ant-paths, etc etc etc  
 
 **Gravity drawings**  
 - Inspired by Jean Arp's 1933 work [*According to the Laws of Chance*](https://www.tate.org.uk/art/artworks/arp-according-to-the-laws-of-chance-t05005)  
