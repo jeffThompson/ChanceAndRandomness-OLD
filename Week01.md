@@ -31,7 +31,8 @@ Images and examples shown in class can be found in this week's `Images` folder.
 - By the early 20th-century, artists of all kinds were questioning the conventions of how art was made  
 - One of the most radical moves these artists explored was the removal of the artist's hand, first through "automatic" processes meant to unplug conscious decision-making and later through embracing chance  
 - John Cage expanded these ideas into his compositional and visual art practice in the 1950s, using improvisation, graphical scores, and tools like coin tosses and the *I Ching* (an ancient Chinese book used for divination)  
-- Compare Cage's seminal [*Music of Changes*](https://youtu.be/Yn3QZzw0vlY) (read more about this piece [here](http://www.lovely.com/albumnotes/notes2053.html)) with music like [Black MIDI](https://rhizome.org/editorial/2013/sep/23/impossible-music-black-midi/) 
+- Compare Cage's seminal [*Music of Changes*](https://youtu.be/Yn3QZzw0vlY) (read more about this piece [here](http://www.lovely.com/albumnotes/notes2053.html)) with music like [Black MIDI](https://rhizome.org/editorial/2013/sep/23/impossible-music-black-midi/)  
+- Later artists would embrace this chaotic look and sound in more radical ways, like William S. Burroughs' [cut-up](https://www.youtube.com/watch?v=Uq_hztHJCM4) technique  
 
 **Gravity drawings**  
 - Inspired by Jean Arp's 1933 work [*According to the Laws of Chance*](https://www.tate.org.uk/art/artworks/arp-according-to-the-laws-of-chance-t05005)  
@@ -48,7 +49,8 @@ Images and examples shown in class can be found in this week's `Images` folder.
 
 **Gherasim Luca-style cut up photos**  
 - Based on a technique called *cubomania* created by Ghérasim Luca in 1944  
-- Influenced by earlier Surrealist collage techniques but meant to break free of careful artistic choices, including a connection between the source material and the process applied to it: "We have returned to the problem of knowledge through images... by establishing a clear distinction between images produced by artistic means and images resulting from rigorously applied scientific procedures, such as the operation of chance or of automatism." (1945)
+- Influenced by earlier Surrealist collage techniques but meant to break free of careful artistic choices, including a connection between the source material and the process applied to it: "We have returned to the problem of knowledge through images... by establishing a clear distinction between images produced by artistic means and images resulting from rigorously applied scientific procedures, such as the operation of chance or of automatism." (1945)  
+- See also: Luca's poem ["Passionnément"](https://vimeo.com/74930350)  
 - Our process:  
 	- Pick a photo, either from the set provided or print your own  
 	- Cut the photo into squares of equal size (the number of squares is up to you)  
@@ -87,8 +89,7 @@ Images and examples shown in class can be found in this week's `Images` folder.
     charming sensibility, even though unappreciated by
         the vulgar herd.
 
-- Generate a few poems using this method, gluing the words to a piece of paper  
-- We'll do a reading of everyone's poems  
+- Generate a few poems using this method, gluing the words to a piece of paper; afterwards we'll do a reading of everyone's poems  
 
 **Further experimentation**  
 - For the rest of class, experiment with one or more of the techniques we tried today  
