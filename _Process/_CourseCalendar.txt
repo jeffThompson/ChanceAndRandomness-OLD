@@ -1,0 +1,187 @@
+
+OVERVIEW
+WEEK 1			chance operations
+				- intro, syllabus
+				- ghérasim luca-style cut up photos
+				- gravity drawings
+				- [break]
+				- derive
+				- gravity drawings cont...
+				- tzara cut newspaper
+				- further experimentation
+
+				homework: two chance drawings
+				reading: selection from Cage
+
+				- figet?
+
+WEEK 2			chance operations 2
+				- critique
+				- oblique strategies drawings
+				- ideation session for our own cards
+				- make our own card set
+				- [break]
+				- performance scores?
+				- random photographs?
+
+				homework: ??
+
+				- boulez: "absorb" chance in 1955/57 in
+				  "Third Piano Sonata"
+
+
+WEEK 3			random choices
+				- "[Things that are] determined in general but depends on chance in details" (Werner Meyer-Eppler, 1955)
+				- chaos game (w coin flips)
+				- dice drawings
+					- make our own dice
+				- create random inputs (non-dice)
+
+				house of dust
+				chance chants
+				https://www.youtube.com/watch?v=QchceC3rV2k
+				http://www.artandpopularculture.com/Aleatory#Film
+
+WEEK 4			random 2
+				- listen to white noise
+
+WEEK 5			psuedorandomness, processing
+				- drawing basics
+				- loops
+				- random values
+
+--				[thanksgiving, no class]
+
+WEEK 6			entropy, processing 2
+				- random choices
+				- map
+
+WEEK 7			work day (morning)
+				final critique (afternoon)
+
+- - -
+
+WEEK 1 (OCT 25)
+Morning:	Introductions, syllabus
+
+			"The conclusion that Dada drew from all this was that chance must be recognized as a new stimulus to artistic creation."
+			— Hans Richter, "Data: Art and Anti-Art"
+
+			Tristan Tzara, in "Dada Manifesto on Feeble & Bitter Love"
+			(translated Barbara Wright)
+			Take a newspaper.
+		    Take some scissors.
+		    Choose from this paper an article the length you want to
+		    	make your poem.
+		    Cut out the article.
+		    Next carefully cut out each of the words that make up
+		    	this article and put them all in a bag.
+		    Shake gently.
+		    Next take out each cutting one after the other.
+		    Copy conscientiously in the order in which they left the
+				bag.
+		    The poem will resemble you.
+		    And there you are--an infinitely original author of
+		    	charming sensibility, even though unappreciated by
+		    	the vulgar herd.
+
+		    Jackson Mac Low
+		    "Stein 100: A Feather Likeness of the Justice Chair"
+		    1999?
+		    https://poets.org/poem/stein-100-feather-likeness-justice-chair
+
+			Chance operations and aleatory music
+			Derive
+			Oblique strategies
+			- make our own cards? share w each other?
+			- http://www.openculture.com/2018/12/behold-original-deck-oblique-strategies-cards-handwritten-brian-eno.html
+
+			"indeterminate" music
+			- chance procedures to produce determinate, fixed score or recording
+			- indeterminate notation, like graphical score (chance comes from how
+			  performers take on the score)
+			- combinations of the two
+
+Afternoon:	Chance drawings
+			about material, natural proc, etc to make random things
+			not about systems or numbers yet (no dice, pls)
+
+WEEK 2 (NOV 1)
+Morning:	Random choices
+			Dice, coin flips, bingo cage, etc
+			Make our own dice
+
+			The "Chaos Game" (desc on page 236) – perfect for random week
+			- desc by Michael Barnsley
+			- create two rules about moving and drawing a point
+			- 50/50 chance of either
+				- ex: move up by 12 and over by 2
+				- move towards the center by 25%
+			- choose a rule, make the move and draw a dot
+			- repeat
+			- simple way to make really complex random images
+
+Afternoon:	Project exploring random choices
+			Bring materials for next week to work with
+
+
+WEEK 3 (NOV 8)
+Morning:
+
+Afternoon:
+
+
+WEEK 4 (NOV 15)
+Morning:	Psuedorandomness, intro to Processing
+
+Afternoon:	Processing demos
+			read shannon paper, other entropy stuff?
+
+WEEK 5 (NOV 22)
+Morning:	entropy
+			first, randomness is chance (cage)
+			- now randomness is shown actually to be a form of order
+			- shannon, entropy, measure of information
+
+			listen to white noise from diff gens?
+			- and look at vis of them?
+			- seeing diff where we can't hear, etc
+
+			tauba auerbach's sorted bible
+			- originally encoding way more info
+			- now reduced to much less
+			- like def of entropy in information
+
+			How to Change Your Mind: What The New Science of Psychedelics Teaches Us...
+			Michael Pollan
+			2018
+			"In both physics and information theory, entropy is often associated with expansion—as in the expansion of a gas when it is heated or freed from the constraints of a container. As the gas’s molecules diffuse in space, it becomes harder to predict the location of any given one; the uncertainty of the system thus increases. In a throwaway line at the end of his entropy paper, Carhart-Harris reminds us that in the 1960s the psychedelic experience was usually described as 'consciousness-expansion'; knowingly or not, Timothy Leary and his colleagues had hit on exactly the right metaphor for the entropic brain."
+			– pg 321
+
+			https://youtu.be/Pxb5lSPLy9c
+			- counting and water vids not random, opposite actually
+			- but playback site mentioned is and gives us random, non-random stuff
+			
+			- what appears random can, with context, be anything but
+			https://www.youtube.com/watch?v=GgAareEne3s&index=12&list=WL
+			https://en.wikipedia.org/wiki/Entropy_in_thermodynamics_and_information_theory
+			- CA/Langton's Ant (random looking, actually deterministic)
+
+Afternoon:		
+
+
+NOV 29 – THANKSGIVING, NO CLASS!
+
+WEEK 6 (DEC 6)
+Morning:
+
+Afternoon:
+
+
+WEEK 7 (DEC 13)
+Morning:
+
+Afternoon:
+
+
+
