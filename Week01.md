@@ -24,7 +24,7 @@ Images and examples shown in class can be found in this week's `Images` folder.
 
 ## MORNING	
 **Introductions, syllabus**  
-- hello, what we're going to work on, using Github  
+- Hello, what we're going to work on, using Github  
 
 **What are "chance operations"?**  
 - "Chance operations" are methods used by visual artists, designers, composers, poets, etc to make decisions in their work, effectively removing their hand and mind from at least part of the process of making  
@@ -35,10 +35,7 @@ Images and examples shown in class can be found in this week's `Images` folder.
 
 **Gravity drawings**  
 - Inspired by Jean Arp's 1933 work [*According to the Laws of Chance*](https://www.tate.org.uk/art/artworks/arp-according-to-the-laws-of-chance-t05005)  
-- According to Arp: 
-
-    "Since the arrangement of planes and their proportions and colours seemed to hinge solely on chance, I declared that these works were arranged 'according to the laws of chance,' as in the order of nature, chance being for me simply a part of an inexplicable reason, of an inaccessible order." (1974)
-
+- According to Arp: "Since the arrangement of planes and their proportions and colours seemed to hinge solely on chance, I declared that these works were arranged 'according to the laws of chance,' as in the order of nature, chance being for me simply a part of an inexplicable reason, of an inaccessible order." (1974)
 - Our process:  
 	- Tear up pieces of black paper  
 	- Let them fall onto a white sheet of paper  
@@ -51,10 +48,7 @@ Images and examples shown in class can be found in this week's `Images` folder.
 
 **Gherasim Luca-style cut up photos**  
 - Based on a technique called *cubomania* created by Ghérasim Luca in 1944  
-- Influenced by earlier Surrealist collage techniques but meant to break free of careful artistic choices, including a connection between the source material and the process applied to it:  
-
-    "We have returned to the problem of knowledge through images... by establishing a clear distinction between images produced by artistic means and images resulting from rigorously applied scientific procedures, such as the operation of chance or of automatism." (1945)
-
+- Influenced by earlier Surrealist collage techniques but meant to break free of careful artistic choices, including a connection between the source material and the process applied to it: "We have returned to the problem of knowledge through images... by establishing a clear distinction between images produced by artistic means and images resulting from rigorously applied scientific procedures, such as the operation of chance or of automatism." (1945)
 - Our process:  
 	- Pick a photo, either from the set provided or print your own  
 	- Cut the photo into squares of equal size (the number of squares is up to you)  
@@ -71,9 +65,7 @@ Images and examples shown in class can be found in this week's `Images` folder.
 - About breaking out of the monotony of everday life under capitalism  
 - See also: flâneur (to stroll, lounge, saunter, or loaf, via Old Norse meaning "to wander with no purpose")  
 - Debord's instructions, from *Introduction to a Critique of Urban Geography*  
-
     The sudden change of ambiance in a street within the space of a few meters; the evident division of a city into zones of distinct psychic atmospheres; the path of least resistance that is automatically followed in aimless strolls (and which has no relation to the physical contour of the terrain); the appealing or repelling character of certain places — these phenomena all seem to be neglected. In any case they are never envisaged as depending on causes that can be uncovered by careful analysis and turned to account.
-
 - We'll head outside and do a dérive of our own    
 
 **Tristan Tzara-style cut newspaper poems**  
