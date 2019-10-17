@@ -24,25 +24,25 @@ See the syllabus PDF for course policies, grading, etc.
 ## COURSE CALENDAR
 Please note this may change depending on timing, interest, and other random variables. Check the class website regularly.
 
-WEEK 1 (OCT 25): CHANCE OPERATIONS
+**WEEK 1 (OCT 25): CHANCE OPERATIONS**  
 Introductions, syllabus, cut-up photographs, gravity drawings, dérive, Surrealist newspaper poems
 
-WEEK 2 (NOV 1): CHANCE OPERATIONS 2
+**WEEK 2 (NOV 1): CHANCE OPERATIONS 2**  
 Critique of homework, discuss reading, Oblique Strategies, making our own prompts, performance scores 
 
-WEEK 3 (NOV 8): RANDOM CHOICES
+**WEEK 3 (NOV 8): RANDOM CHOICES**  
 Critique of homework, Chaos Game, dice drawings, analog random generators
 
-WEEK 4 (NOV 15): RANDOMNESS 2
+**WEEK 4 (NOV 15): RANDOMNESS 2**  
 Critique of homework, final project ideation session, work day
 
-WEEK 5 (NOV 22): PSEUDORANOMNESS, CODE
+**WEEK 5 (NOV 22): PSEUDORANOMNESS, CODE**  
 Critique of homework, introduction to Processing, drawing basics, loops, random values
 
-[ Thanksgiving break, no class ]
+**\[ Thanksgiving break, no class \]**  
 
-WEEK 6 (DEC 6): ENTROPY, CODE 2
+**WEEK 6 (DEC 6): ENTROPY, CODE 2**  
 Feedback session on work in progress, discuss reading random choices
 
-WEEK 7 (DEC 13): FINAL CRITIQUE
+**WEEK 7 (DEC 13): FINAL CRITIQUE**  
 Work time, critique of finished projects
