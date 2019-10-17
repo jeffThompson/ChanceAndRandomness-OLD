@@ -11,7 +11,7 @@ In this seven-week course, we will explore chance and randomness as tools for ma
 
 Along the way, we’ll also discuss the differences between chance, randomness, information, and entropy, do some readings to contextualize our work, explore performance and scores for work, and discuss what happens when (to varying degrees) remove the artist’s hand in favor of mechanisms out of our control.
 
-See the syllabus PDF for course policies, grading, etc.
+See `Syllabus.pdf` for course policies, grading, etc.
 
 ***  
 
@@ -22,7 +22,7 @@ See the syllabus PDF for course policies, grading, etc.
 ***  
 
 ## COURSE CALENDAR
-Please note this may change depending on timing, interest, and other random variables. Check the class website regularly.
+*Please note this may change depending on timing, interest, and other random variables. Check the class website regularly.*
 
 **WEEK 1 (OCT 25): CHANCE OPERATIONS**  
 Introductions, syllabus, cut-up photographs, gravity drawings, dérive, Surrealist newspaper poems
@@ -39,7 +39,7 @@ Critique of homework, final project ideation session, work day
 **WEEK 5 (NOV 22): PSEUDORANOMNESS, CODE**  
 Critique of homework, introduction to Processing, drawing basics, loops, random values
 
-**\[ Thanksgiving break, no class \]**  
+\[ Thanksgiving break, no class \]
 
 **WEEK 6 (DEC 6): ENTROPY, CODE 2**  
 Feedback session on work in progress, discuss reading random choices
