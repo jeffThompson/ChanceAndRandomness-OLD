@@ -7,7 +7,7 @@
     Meeting times   Fridays 9:30am–12:20pm, 1:30–4:30pm
     Location        Varies, depending on what we’re working on that week
 
-In this seven-week course, we will explore chance and randomness as tools for making art. We’ll look at lots of historical examples—from visual art, music, popular culture, science, and technology—and create artworks that investigate the creative potential of letting go of artistic decisions and collaborating with chance and randomness. We’ll start with analog methods like drawing and collage, then move into writing code later in the class. 
+In this seven-week course, we will explore chance and randomness as tools for making art. We’ll look at lots of historical examples—from visual art, music, popular culture, science, and technology—and create artworks that investigate the creative potential of letting go of artistic decisions and collaborating with chance and randomness. We’ll start with analog methods like drawing and collage, then move into writing code later in the class. The course culminates in a multi-week, open-ended project that connects the ideas covered in the class with your own creative practice.
 
 Along the way, we’ll also discuss the differences between chance, randomness, information, and entropy, do some readings to contextualize our work, explore performance and scores for work, and discuss what happens when (to varying degrees) remove the artist’s hand in favor of mechanisms out of our control.
 
@@ -36,13 +36,13 @@ Critique of homework, Chaos Game, dice drawings, analog random generators
 **WEEK 4 (NOV 15): RANDOMNESS 2**  
 Critique of homework, final project ideation session, work day
 
-**WEEK 5 (NOV 22): PSEUDORANOMNESS, CODE**  
+**WEEK 5 (NOV 22): PSEUDO-RANDOMNESS, CODE**  
 Critique of homework, introduction to Processing, drawing basics, loops, random values
 
 \[ Thanksgiving break, no class \]
 
 **WEEK 6 (DEC 6): ENTROPY, CODE 2**  
-Feedback session on work in progress, discuss reading random choices
+Feedback session on work in progress, discuss reading, random choices
 
 **WEEK 7 (DEC 13): FINAL CRITIQUE**  
 Work time, critique of finished projects
