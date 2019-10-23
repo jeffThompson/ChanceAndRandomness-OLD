@@ -102,5 +102,5 @@ Images and examples shown in class can be found in this week's `Images` folder.
 For next week, please think about ways you can collaborate with chance and order. Create an artwork of some kind (collage, drawing, photograph, website, performance, poem, etc etc) and bring to class next week. We'll do a short critique of the projects, discuss the reading (see below), then do some further exercises expanding on the idea of chance.
 
 ## READING  
-Please read the excerpt from John Cage's book *Silence*, found in this week's `Readings` folder. Write up a 1–2 paragraph response to something in the reading you found interesting, challenging, or disagree with in the text. Print and bring to class.  
+Please read the excerpts from John Cage's book *Silence*, found in this week's `Readings` folder. Write up a 1–2 paragraph response to something in the reading you found interesting, challenging, or disagree with in the text. Print and bring to class along with the readings (either printed or on your laptop).  
 
