@@ -24,7 +24,7 @@ See `Syllabus.pdf` for course policies, grading, etc.
 ## COURSE CALENDAR
 *Please note this may change depending on timing, interest, and other random variables. Check the class website regularly.*
 
-**WEEK 1 (OCT 25): CHANCE OPERATIONS**  
+**[WEEK 1 (OCT 25): CHANCE OPERATIONS](https://github.com/jeffThompson/ChanceAndRandomness/blob/master/Week01-ChanceOperations.md)**  
 Introductions, syllabus, cut-up photographs, gravity drawings, dérive, Surrealist newspaper poems
 
 **WEEK 2 (NOV 1): CHANCE OPERATIONS 2**  
