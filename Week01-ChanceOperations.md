@@ -35,32 +35,6 @@ Images and examples shown in class can be found in this week's `Images` folder.
 - Later artists would embrace this chaotic look and sound in more radical ways, like William S. Burroughs' [cut-up](https://www.youtube.com/watch?v=Uq_hztHJCM4) technique  
 - We can think of "chance operations" as any means of making decision in your work that come from unpredictable sources: gravity, shuffling, wind, ant-paths, etc etc etc  
 
-**Gravity drawings**  
-- Inspired by Jean Arp's 1933 work [*According to the Laws of Chance*](https://www.tate.org.uk/art/artworks/arp-according-to-the-laws-of-chance-t05005)  
-- According to Arp: "Since the arrangement of planes and their proportions and colours seemed to hinge solely on chance, I declared that these works were arranged 'according to the laws of chance,' as in the order of nature, chance being for me simply a part of an inexplicable reason, of an inaccessible order." (1974)
-- Our process:  
-	- Tear up pieces of black paper  
-	- Let them fall onto a white sheet of paper  
-	- Repeat until you reach an arrangement you like  
-	- Glue them in place  
-- Alternatively, try:  
-	- Insert your own decision-making into the process in some way, "collaborating" with chance  
-	- Tear up white paper and let fall on black  
-	- White on white, black on black  
-
-**Gherasim Luca-style cut up photos**  
-- Based on a technique called *cubomania* created by Ghérasim Luca in 1944  
-- Influenced by earlier Surrealist collage techniques but meant to break free of careful artistic choices, including a connection between the source material and the process applied to it: "We have returned to the problem of knowledge through images... by establishing a clear distinction between images produced by artistic means and images resulting from rigorously applied scientific procedures, such as the operation of chance or of automatism." (1945)  
-- See also: Luca's poem ["Passionnément"](https://vimeo.com/74930350)  
-- Our process:  
-	- Pick a photo, either from the set provided or print your own  
-	- Cut the photo into squares of equal size (the number of squares is up to you)  
-	- Rearrange the squares, both position and rotation, in some random way—explore this option!
-	- Once you're satisfied with the configuration, glue the squares in place on a sheet of paper  
-
-<hr>
-
-## AFTERNOON
 **Dérive ("drift" in French)**  
 - Developed by Guy Debord, 1956  
 - "A mode of experimental behavior linked to the conditions of urban society: a technique of rapid passage through varied ambiences"  
@@ -69,6 +43,32 @@ Images and examples shown in class can be found in this week's `Images` folder.
 - Debord's instructions, from *Introduction to a Critique of Urban Geography*  
     The sudden change of ambiance in a street within the space of a few meters; the evident division of a city into zones of distinct psychic atmospheres; the path of least resistance that is automatically followed in aimless strolls (and which has no relation to the physical contour of the terrain); the appealing or repelling character of certain places — these phenomena all seem to be neglected. In any case they are never envisaged as depending on causes that can be uncovered by careful analysis and turned to account.
 - We'll head outside and do a dérive of our own    
+
+<hr>
+
+## AFTERNOON
+**Gravity drawings**  
+- Inspired by Jean Arp's 1933 work [*According to the Laws of Chance*](https://www.tate.org.uk/art/artworks/arp-according-to-the-laws-of-chance-t05005)  
+- According to Arp: "Since the arrangement of planes and their proportions and colours seemed to hinge solely on chance, I declared that these works were arranged 'according to the laws of chance,' as in the order of nature, chance being for me simply a part of an inexplicable reason, of an inaccessible order." (1974)
+- Our process:  
+    - Tear up pieces of black paper  
+    - Let them fall onto a white sheet of paper  
+    - Repeat until you reach an arrangement you like  
+    - Glue them in place  
+- Alternatively, try:  
+    - Insert your own decision-making into the process in some way, "collaborating" with chance  
+    - Tear up white paper and let fall on black  
+    - White on white, black on black  
+
+**Gherasim Luca-style cut up photos**  
+- Based on a technique called *cubomania* created by Ghérasim Luca in 1944  
+- Influenced by earlier Surrealist collage techniques but meant to break free of careful artistic choices, including a connection between the source material and the process applied to it: "We have returned to the problem of knowledge through images... by establishing a clear distinction between images produced by artistic means and images resulting from rigorously applied scientific procedures, such as the operation of chance or of automatism." (1945)  
+- See also: Luca's poem ["Passionnément"](https://vimeo.com/74930350)  
+- Our process:  
+    - Pick a photo, either from the set provided or print your own  
+    - Cut the photo into squares of equal size (the number of squares is up to you)  
+    - Rearrange the squares, both position and rotation, in some random way—explore this option!
+    - Once you're satisfied with the configuration, glue the squares in place on a sheet of paper  
 
 **Tristan Tzara-style cut newspaper poems**  
 - Instructions for creating poems using the newspaper from Tristan Tzara in *Dada Manifesto on Feeble & Bitter Love* (1920, version below translated Barbara Wright):  
