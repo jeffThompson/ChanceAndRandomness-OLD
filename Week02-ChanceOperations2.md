@@ -47,7 +47,7 @@ Instructions for creating poems using the newspaper from Tristan Tzara in *Dada 
     charming sensibility, even though unappreciated by
         the vulgar herd.
 
-Generate a poem using this method, gluing/taping the words to a piece of paper. We'll also listen to some of Kenneth Goldsmith's *Fidget* and other chance-generated texts while you're working. Afterwards we'll do a reading of everyone's poems.
+Generate a poem using this method, gluing/taping the words to a piece of paper. We'll also listen to some of [Kenneth Goldsmith's *Fidget*](http://www.writing.upenn.edu/pennsound/x/Goldsmith-Fidget.html) and other chance-generated texts while you're working. Afterwards we'll do a reading of everyone's poems.
 
 ***Oblique Strategies* drawings**  
 Created in 1974 by Brian Eno and Peter Schmidt, *Oblique Strategies* is a set of cards to help break out of creative block and to interject new directions into the artistic process. First edition, now impossibly rare, was a combination of cards created separately by Eno and Schmidt (see [the *original*-original hand-drawn version here](http://www.openculture.com/2018/12/behold-original-deck-oblique-strategies-cards-handwritten-brian-eno.html)). 
@@ -55,7 +55,8 @@ Created in 1974 by Brian Eno and Peter Schmidt, *Oblique Strategies* is a set of
 The cards are also in [an online version](http://stoney.sb.org/eno/oblique.html), which is what we'll use today. Our process:  
 	
     Start making a drawing, using any media and approach you want  
-    Every five minutes we'll stop and take a picture of your drawing's progress, then pick a new card from *Oblique Strategies* for everyone  
+    Every five minutes we'll stop and take a picture of your drawing's progress
+    ...then pick a new card from *Oblique Strategies* for everyone  
     You should respond to the card's prompt for the next five minutes in your drawing  
     We'll continue this process, periodically stopping to begin a new drawing  
 
