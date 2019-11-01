@@ -27,7 +27,7 @@ See `Syllabus.pdf` for course policies, grading, etc.
 **[WEEK 1 (OCT 25): CHANCE OPERATIONS](https://github.com/jeffThompson/ChanceAndRandomness/blob/master/Week01-ChanceOperations.md)**  
 Introductions, syllabus, cut-up photographs, gravity drawings, dérive, Surrealist newspaper poems
 
-**WEEK 2 (NOV 1): CHANCE OPERATIONS 2**  
+**[WEEK 2 (NOV 1): CHANCE OPERATIONS 2](https://github.com/jeffThompson/ChanceAndRandomness/blob/master/Week02-ChanceOperations2.md)**  
 Critique of homework, discuss reading, Oblique Strategies, making our own prompts, performance scores 
 
 **WEEK 3 (NOV 8): RANDOM CHOICES**  
