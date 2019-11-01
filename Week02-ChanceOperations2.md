@@ -7,7 +7,7 @@
 
 This week, we'll continue last week's work considering "chance operations" as defined by Dada artists and composers like John Cage. We'll start with *Oblique Strategies*, a deck of cards created by composer Brian Eno and artist Peter Schmidt. Each card features a prompt meant to jolt one out of a creative funk. We'll first create poems from cut-up newspaper articles. Then we'll make some drawings using Eno's original cards, create our own deck collaboratively, and use those cards to create performance and drawing scores.
 
-**NOTE! Next week we will NOT be meeting in NYC next week, since there is no more room on the bus. I'll see you in class as usual.**
+**NOTE! Next week we will NOT be meeting in NYC next week, since there is no more room on the bus. I'll see you in class as usual – please see the assignment below for what to bring.**
 
 Images and examples shown in class can be found in this week's `Images` folder.
 
@@ -90,7 +90,12 @@ We'll spend the rest of the day trying out different scores and making drawings,
 <hr>
 
 ## HOMEWORK  
-Over the next week, please create your own score and then carry it out in any medium. Feel free to work with others in realizing your score, either directing their work or collaborating to make the piece. The score will in of itself be a piece, so be specific about your notation. Both the score and the resulting artwork should show one weeks' effort, but feel free to be bold and experimental!
+Over the next week, please create your own score and then carry it out in any medium. Feel free to work with others in realizing your score, either directing their work or collaborating to make the piece. The score will in of itself be a piece, so be specific about your notation. Bring both your score and the resulting work to class.
 
-Please also bring supplies and tools you might want to use to make drawings next week.
+Please also bring supplies and tools you might want to use to make drawings next week. If you have any non-traditional dice or other means of generating random values, feel free to bring them too!
+
+## READING  
+Please read the introduction from Maria Chavez's "book" *Of Technique: Chance Procedures on Turntable* (it's very short). Chavez notes that, while it looks like a book, she sees it really as a sculpture:
+
+>"It's an album for one's inner dialog. The descriptions of the sounds and the words guide the inner ear/dialog to imagine the sound. Then you tear out the pages to remind you of the technique to perform the work yourself. Then you are performing the album. The book itself and how you interact with it is also a sculpture unto itself because of how one interacts with it is their own. I have no influence with it outside of creating the object to be used and imagined. So an album for the inner ear that you allow to come alive on your own."
 
