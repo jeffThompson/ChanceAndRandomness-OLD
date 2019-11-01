@@ -7,7 +7,7 @@
 
 This week, we'll continue last week's work considering "chance operations" as defined by Dada artists and composers like John Cage. We'll start with *Oblique Strategies*, a deck of cards created by composer Brian Eno and artist Peter Schmidt. Each card features a prompt meant to jolt one out of a creative funk. We'll first create poems from cut-up newspaper articles. Then we'll make some drawings using Eno's original cards, create our own deck collaboratively, and use those cards to create performance and drawing scores.
 
-**NOTE! Next week we will meet in NYC! If you haven't already, please sign up for the bus ASAP to reserve your seat. You'll start your day at the Met, but I'll meet you in the lobby of MoMA at 1pm.**
+**NOTE! Next week we will NOT be meeting in NYC next week, since there is no more room on the bus. I'll see you in class as usual.**
 
 Images and examples shown in class can be found in this week's `Images` folder.
 
@@ -90,5 +90,7 @@ We'll spend the rest of the day trying out different scores and making drawings,
 <hr>
 
 ## HOMEWORK  
-Over the next two weeks (since we'll be meeting in NYC next week), please create your own score and then carry it out in any medium. Feel free to work with others in realizing your score, either directing their work or collaborating to make the piece. The score will in of itself be a piece, so be specific about your notation. Both the score and the resulting artwork should show two weeks' effort, but feel free to be bold and experimental!
+Over the next week, please create your own score and then carry it out in any medium. Feel free to work with others in realizing your score, either directing their work or collaborating to make the piece. The score will in of itself be a piece, so be specific about your notation. Both the score and the resulting artwork should show one weeks' effort, but feel free to be bold and experimental!
+
+Please also bring supplies and tools you might want to use to make drawings next week.
 
