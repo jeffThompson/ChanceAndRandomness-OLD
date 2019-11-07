@@ -30,7 +30,7 @@ Introductions, syllabus, cut-up photographs, gravity drawings, dérive, Surreali
 **[WEEK 2 (NOV 1): CHANCE OPERATIONS 2](https://github.com/jeffThompson/ChanceAndRandomness/blob/master/Week02-ChanceOperations2.md)**  
 Critique of homework, discuss reading, *Oblique Strategies*, making our own prompts, drawing scores 
 
-**WEEK 3 (NOV 8): RANDOM CHOICES**  
+**[WEEK 3 (NOV 8): RANDOM CHOICES](https://github.com/jeffThompson/ChanceAndRandomness/blob/master/Week03-RandomChoices.md)**  
 Critique of homework, Chaos Game, dice drawings, analog random value generators
 
 **WEEK 4 (NOV 15): PSEUDO-RANDOMNESS, CODE**  
