@@ -31,11 +31,12 @@ This is a somewhat simplified method meant more for generating random numbers th
 
 **Read the piles:**  
 
-If...
-- All piles are small (5 stalks) = "solid becomes broken"  
-- All piles are big (9 stalks) = "broken becomes solid"  
-- 2 small (5x) and 1 big (9x) = "broken"  
-- 2 big (9x) and 1 small (5x) = "solid"  
+|If...                         |Means                 |
+|------------------------------|----------------------|
+|All piles are small (5 stalks)|"solid becomes broken"|  
+|All piles are big (9 stalks)  |"broken becomes solid"|  
+|2 small (5x) and 1 big (9x)   |"broken"              |  
+|2 big (9x) and 1 small (5x)   |"solid"               |  
 
 This becomes the bottom line of the hexagram. You can then put all your stalks back together and repeat the entire process five more times to read a full hexagram.
 
