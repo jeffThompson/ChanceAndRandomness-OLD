@@ -40,3 +40,9 @@ This is a somewhat simplified method meant more for generating random numbers th
 
 This becomes the bottom line of the hexagram. You can then put all your stalks back together and repeat the entire process five more times to read a full hexagram.
 
+## HOW TO USE THIS?  
+
+Cage famously used the *I Ching* in his compositions as well as written texts, lectures, and drawings. Cage's use varied from reading the *I Ching* traditionally and using the prompts to spur ideas (kind of like *Oblique Strategies*) but later he used it more as a mathematical method. [This post by Steve Marshall](https://www.biroco.com/yijing/cage.htm) goes deep into Cage's process.
+
+You could follow Cage's methods, or create your own. Perhaps the four pile counts above could be mapped to numbers or up/down/left/right. You could use the counts directly as numerical values, either on their own or individually. Or consult the book (see [an online version here](https://archive.org/details/I-Ching/page/n1)) and use the text as a prompt or source. 
+
