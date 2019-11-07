@@ -28,21 +28,21 @@ See `Syllabus.pdf` for course policies, grading, etc.
 Introductions, syllabus, cut-up photographs, gravity drawings, dérive, Surrealist newspaper poems
 
 **[WEEK 2 (NOV 1): CHANCE OPERATIONS 2](https://github.com/jeffThompson/ChanceAndRandomness/blob/master/Week02-ChanceOperations2.md)**  
-Critique of homework, discuss reading, Oblique Strategies, making our own prompts, performance scores 
+Critique of homework, discuss reading, *Oblique Strategies*, making our own prompts, drawing scores 
 
 **WEEK 3 (NOV 8): RANDOM CHOICES**  
-Critique of homework, Chaos Game, dice drawings, analog random generators
+Critique of homework, Chaos Game, dice drawings, analog random value generators
 
-**WEEK 4 (NOV 15): RANDOMNESS 2**  
-Critique of homework, final project ideation session, work day
+**WEEK 4 (NOV 15): PSEUDO-RANDOMNESS, CODE**  
+Critique of homework, final project ideation session, introduction to Processing, drawing basics, loops, random values  
 
-**WEEK 5 (NOV 22): PSEUDO-RANDOMNESS, CODE**  
-Critique of homework, introduction to Processing, drawing basics, loops, random values
+**WEEK 5 (NOV 22): CODE 2**  
+Further Processing demos, plotter demo  
 
 \[ Thanksgiving break, no class \]
 
-**WEEK 6 (DEC 6): ENTROPY, CODE 2**  
-Feedback session on work in progress, discuss reading, random choices
+**WEEK 6 (DEC 6): ENTROPY, CODE 3**  
+Feedback session on work in progress, work day
 
 **WEEK 7 (DEC 13): FINAL CRITIQUE**  
 Work time, critique of finished projects
