@@ -62,7 +62,7 @@ This week, your homework is to make something using random choices. The medium a
 Some possibilities, to get your brain going:  
 
 - A set of rules defining patterns of marks; roll the dice, make a mark, and repeat until the canvas is filled  
-- Flip a coin to choose which way to walk, gather materials along the way and photograph them  
+- Flip a coin to choose which way to walk, gather materials along the way and photograph them (inspired by Braco Dimitrijevic's [*Casual Passer-By* series](https://www.tate.org.uk/art/artworks/dimitrijevic-casual-passer-by-i-met-at-1-43-pm-venice-1976-t12557))  
 - Use dice and a rule-set to determine how to point a camera and the edits you make from the resulting video  
 - Inspired by Jackson Mac Low's [*Stein 100: A Feather Likeness of the Justice Chair*](https://poets.org/poem/stein-100-feather-likeness-justice-chair), create your own generating device (dice, etc) to pick from a word list and create poems from existing texts the you perform for us  
 
@@ -74,11 +74,27 @@ Next week, we'll be switching to the computer and will be working in Processing 
 
 ## PROJECTS SHOWN  
 
+- [*The Dice Man*](https://en.wikipedia.org/wiki/The_Dice_Man), a novel by George Cockcroft (1971) who himself experimented with the idea of "living by the dice" (see also: [*Flippism*](https://web.archive.org/web/20110719074118/http://www.rastetter-wacker.de/Barks-Flipism.htm))  
 - Alison Knowles and James Tenney's *House of Dust*, a computer-generated poem created in 1967 and later installed in a physical structure built specifically for the piece in 1970 (try [this simulation](http://zachwhalen.net/pg/dust/) by Zach Whalen)  
 - Andy Voda's [*Chance Chants*](https://www.youtube.com/watch?v=QchceC3rV2k), which uses random choices to cut up a text (including *House of Dust* as source material) as well as images and edits  
 - Eve Sussman's [*whiteonwhite:algorithmicnoir*](https://vimeo.com/72393953), a film made of 3000 clips, 80 voice-overs, and 150 pieces of music that are edited together in real-time by an algorithmic system ([more info on the piece](https://americanart.si.edu/artwork/whiteonwhitealgorithmicnoir-86654))  
-- Stéphane Mallarmé's [30-year project *The Book*](https://graphicarts.princeton.edu/2019/02/28/not-just-a-book-but-the-book/), published in 1957 after his death  
+- Stéphane Mallarmé's [30-year project *The Book*](https://graphicarts.princeton.edu/2019/02/28/not-just-a-book-but-the-book/), published in 1957 after his death, and [*A Cast of Dice Never Can Annul Chance*](http://collections.vam.ac.uk/item/O1280347/a-cast-of-dice-never-artists-book-mallarme-stephane/)  
 - Raymond Queneau's [*Hundred Thousand Billion Poems*](http://www.leoalmanac.org/vol17-no2-hundred-thousand-billion-fingers/)  
 - Paintings of [Kenneth Martin](http://www.tate.org.uk/art/artworks/martin-chance-and-order-v-p04589)  
 - The epic terrain and history-generating game [Dwarf Fortress](http://www.bay12games.com/dwarves)  
+
+## RESOURCS  
+
+- https://en.wikipedia.org/wiki/History_of_randomness  
+
+Lots more on dice:  
+- https://en.wikipedia.org/wiki/Dice  
+- https://en.wikipedia.org/wiki/Dreidel  
+- https://en.wikipedia.org/wiki/Teetotum  
+- https://en.wikipedia.org/wiki/Long_dice  
+- https://en.wikipedia.org/wiki/Miwin%27s_dice  
+- https://en.wikipedia.org/wiki/Sicherman_dice  
+- http://lamastex.org/lmse/galtons-dice  
+- https://en.wikipedia.org/wiki/Musikalisches_W%C3%BCrfelspiel  
+- https://en.wikipedia.org/wiki/Diceware  
 
