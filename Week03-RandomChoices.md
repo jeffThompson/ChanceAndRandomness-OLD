@@ -6,7 +6,7 @@
 
 >"If poetry has long been the locus of the expression of subjectivity... this poem, composed of random constellations, questions the very possibility of an immediate expression of the author's interiority." – Hannah Higgins, et al on *House of Dust*  
 
-After having explored chance operations and indeterminacy, we'll make a subtle shift into thinking about randomness. While they initially seem to be synonyms, we'll later see a mathematical foundation for randomness (including ways to measure how much randomness is in a message). That foundation in numbers will guide us this week: instructions, dice, and other mechanical means for generating randomness. We'll make some more drawings using dice then make our own randomness-generating devices.
+After having explored chance operations and indeterminacy, we'll make a subtle shift into thinking about randomness. While they initially seem to be synonyms, we'll later see a mathematical foundation for randomness (including ways to measure how much randomness is in a message). That foundation in numbers will guide us this week: instructions, dice, and other mechanical means for generating randomness. We'll make some more drawings using historical instructions, then create drawings with dice and other mechanical methods.
 
 *Above: Installation of Alison Knowles and James Tenney's computer-generated poem "House of Dust" in 1967*  
 
@@ -86,6 +86,7 @@ Next week, we'll be switching to the computer and will be working in Processing 
 ## RESOURCS  
 
 - https://en.wikipedia.org/wiki/History_of_randomness  
+- https://en.wikipedia.org/wiki/Numerology  
 
 Lots more on dice:  
 - https://en.wikipedia.org/wiki/Dice  
