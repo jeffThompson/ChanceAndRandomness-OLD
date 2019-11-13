@@ -4,9 +4,11 @@
 
 >"The computer is a unique device for the arts since it can function soley as an obedient tool with vast capabilities for controlling complicated and involved processes, but then again, full exploitation of its unique talents for controlled randomness and detailed algorithms could result in an entirely new machine – a creative artistic medium." – A. Michael Noll (1970)
 
-This week, we'll transition from analog methods of random number generation to the computer, looking at how randomness can be a creative tool that both breaks the computer's determinism and takes advantage of its capacity to quickly create (seemingly) random values. Randomness and code have long existed side-by-side, first in the form of codes and code-breaking during WWII, later driving simulations for weather prediction and nuclear research. Artists early to use the computer – like A. Michael Noll, Vera Molnar, and Manfred Mohr – often used random values in their work as well.
+This week, we'll transition from analog methods of random number generation to the computer, looking at how randomness can be a creative tool that both breaks the computer's determinism and takes advantage of its capacity to quickly create (seemingly) random values. Randomness and code have long existed side-by-side, first in the form of [codes and code-breaking during WWII](https://en.wikipedia.org/wiki/Colossus_computer), later driving simulations for [weather prediction](https://en.wikipedia.org/wiki/Edward_Norton_Lorenz) and [nuclear research](https://en.wikipedia.org/wiki/Applications_of_randomness#Simulation). Artists early to use the computer – like A. Michael Noll, Vera Molnar, and Manfred Mohr – often used random values in their work as well.
 
-"Randomness" in the computer presents some interesting intellectual friction though: the numbers it generates aren't really random! Since the computer is a deterministic system (everything is a 0 or a 1, at least until quantum computing becomes mainstream), we can't really create random numbers in the computer. Instead, they are defined by algorithms (instructions in code) which generate numbers that appear to be random, to varying degrees. We'll dig further into this in the coming weeks, but the random number generator (or RNG for short) we'll be using in Processing is called ["linear congruential"](https://rosettacode.org/wiki/Linear_congruential_generator). It uses a simple formula and a "seed" value that starts the process (usually the current date and time, though we can also change it):
+"Randomness" in the computer presents some interesting intellectual friction though: the numbers it generates aren't really random! Since the computer is a deterministic system (everything is a 0 or a 1, at least until quantum computing becomes mainstream), we can't really create random numbers in the computer. Instead, they are defined by algorithms (instructions in code) which generate numbers that appear to be random, to varying degrees, which we call ["psuedo-random."](https://en.wikipedia.org/wiki/Pseudorandomness) 
+
+We'll dig further into this in the coming weeks, but the random number generator (or RNG for short) we'll be using in Processing is called ["linear congruential"](https://rosettacode.org/wiki/Linear_congruential_generator). It uses a simple formula and a "seed" value that starts the process (usually the current date and time, though we can also change it):
 
     value[next] = 1103515245 * value[current] + 12345 % 2^31
 
@@ -75,13 +77,4 @@ Your proposal should include:
 - Who: what artists, designers, musicians, and other creative work inspires this project and your work generally; include not just names but a short explanation (2–3 examples, though more is ok!)  
 
 Please print your proposals and bring them to class next week. You should also start the project: ideation, prototyping, sketching, mockups, research, and/or materials-gathering. We'll discuss your project ideas next class, followed by further explorations of randomness in code.
-
-<hr>
-
-## PROJECTS SHOWN  
-- A. Michael Noll  
-- Vera Molnar  
-- Manfred Mohr  
-- Frieder Nake  
-- Charles Csuri  
 
