@@ -33,7 +33,7 @@ Critique of homework, discuss reading, *Oblique Strategies*, making our own prom
 **WEEK 3 (NOV 8): [RANDOM CHOICES](https://github.com/jeffThompson/ChanceAndRandomness/blob/master/Week03-RandomChoices.md)**  
 Critique of homework, Chaos Game, dice drawings, analog random value generators
 
-**WEEK 4 (NOV 15): [PSEUDORANDOMNESS, CODE](https://github.com/jeffThompson/ChanceAndRandomness/blob/master/Week04-Psuedorandomness.md)**  
+**WEEK 4 (NOV 15): [PSEUDORANDOMNESS, CODE](https://github.com/jeffThompson/ChanceAndRandomness/blob/master/Week04-Pseudorandomness.md)**  
 Critique of homework, final project ideation session, introduction to Processing, drawing basics, loops, random values  
 
 **WEEK 5 (NOV 22): PSEUDORANDOMNESS 2**  
