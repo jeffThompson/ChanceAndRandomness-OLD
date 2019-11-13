@@ -22,21 +22,21 @@ See `Syllabus.pdf` for course policies, grading, etc.
 ***  
 
 ## COURSE CALENDAR
-*Please note this may change depending on timing, interest, and other random variables. Check the class website regularly.*
+*Please note this may change depending on timing, interest of the class, and other random variables; check this website regularly.*
 
-**[WEEK 1 (OCT 25): CHANCE OPERATIONS](https://github.com/jeffThompson/ChanceAndRandomness/blob/master/Week01-ChanceOperations.md)**  
+**WEEK 1 (OCT 25): [CHANCE OPERATIONS](https://github.com/jeffThompson/ChanceAndRandomness/blob/master/Week01-ChanceOperations.md)**  
 Introductions, syllabus, cut-up photographs, gravity drawings, dérive, Surrealist newspaper poems
 
-**[WEEK 2 (NOV 1): CHANCE OPERATIONS 2](https://github.com/jeffThompson/ChanceAndRandomness/blob/master/Week02-ChanceOperations2.md)**  
+**WEEK 2 (NOV 1): [CHANCE OPERATIONS 2](https://github.com/jeffThompson/ChanceAndRandomness/blob/master/Week02-ChanceOperations2.md)**  
 Critique of homework, discuss reading, *Oblique Strategies*, making our own prompts, drawing scores 
 
-**[WEEK 3 (NOV 8): RANDOM CHOICES](https://github.com/jeffThompson/ChanceAndRandomness/blob/master/Week03-RandomChoices.md)**  
+**WEEK 3 (NOV 8): [RANDOM CHOICES](https://github.com/jeffThompson/ChanceAndRandomness/blob/master/Week03-RandomChoices.md)**  
 Critique of homework, Chaos Game, dice drawings, analog random value generators
 
-**WEEK 4 (NOV 15): PSEUDO-RANDOMNESS, CODE**  
+**WEEK 4 (NOV 15): [PSEUDORANDOMNESS, CODE](https://github.com/jeffThompson/ChanceAndRandomness/blob/master/Week04-Psuedorandomness.md)**  
 Critique of homework, final project ideation session, introduction to Processing, drawing basics, loops, random values  
 
-**WEEK 5 (NOV 22): CODE 2**  
+**WEEK 5 (NOV 22): PSEUDORANDOMNESS 2**  
 Further Processing demos, plotter demo  
 
 \[ Thanksgiving break, no class \]
@@ -46,3 +46,4 @@ Feedback session on work in progress, work day
 
 **WEEK 7 (DEC 13): FINAL CRITIQUE**  
 Work time, critique of finished projects
+
