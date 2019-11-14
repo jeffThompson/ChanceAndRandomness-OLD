@@ -10,11 +10,12 @@ This week, we'll transition from analog methods of random number generation to t
 
 We'll dig further into this in the coming weeks, but the random number generator (or RNG for short) we'll be using in Processing is called ["linear congruential"](https://rosettacode.org/wiki/Linear_congruential_generator). It uses a simple formula and a "seed" value that starts the process (usually the current date and time, though we can also change it):
 
-    value[next] = 1103515245 * value[current] + 12345 % 2^31
+    next = 1103515245 * current + 12345 % 2^31
 
 Today we'll start with some Processing basics (and/or a refresher for those of you that have used it before), then start making images with random values. We'll continue this for the next two weeks while you begin work on your final project.
 
 *Above: Detail of Manfred Mohr's 1971 plotter drawing "White Noise."*  
+
 
 ### ACTIVITIES  
 - Critique of last-week's projects  
@@ -25,6 +26,7 @@ Today we'll start with some Processing basics (and/or a refresher for those of y
 - Homework  
 
 <hr>
+
 
 ## MORNING  
 **Critique**  
@@ -37,7 +39,7 @@ The code examples are all in the `Code` folder for this class, but I'll also dis
 
 
 **Drawing a robot**  
-Today we have amazingly deep programs for making art using computers, like Photoshop and Maya. But the concepts behind these tools is the same as it was in the earliest days of computer graphics: basic shapes, a coordinate system, pixels and colors on a screen. As a little in-class assignment, we'll explore these as our toolset and get more familiar thinking about images as numbers and positions. Building on the code examples you learned so far, generate a drawing of a robot using only code. Use any combination of shapes, color, stroke, transparency, etc to make your robots as detailed as possible.
+Today, we have amazingly deep programs for making art using computers, like Photoshop and Maya. But the concepts behind these tools is the same as it was in the earliest days of computer graphics: basic shapes, a coordinate system, pixels and colors on a screen. As a little in-class assignment, we'll explore these as our toolset and get more familiar thinking about images as numbers and positions. Building on the code examples you learned so far, generate a drawing of a robot using only code. Use any combination of shapes, color, stroke, transparency, etc to make your robots as detailed as possible.
 
 Create a sketch with this basic structure:
 
@@ -54,15 +56,19 @@ If you already have some coding experience, please try to just use the methods w
 
 We'll work on these into the afternoon, then take a look at them as a group.
 
+
 <hr>
+
 
 ## AFTERNOON  
 **For-loops and `random()`**  
-The power of programming really becomes visible when we add loops: repeating structures that let us draw hundreds or thousands of shapes with just a few lines of code. We'll do a short exercise to help you understand the for-loop's complex syntax, then create some initial random drawings.
+The power of programming really becomes visible when we add loops: repeating structures that let us draw hundreds or thousands of shapes with just a few lines of code. We'll do [a short exercise to help you understand the for-loop's complex syntax](https://github.com/jeffThompson/ChanceAndRandomness/tree/master/Resources/HumanLoop), then create some initial random drawings.
 
 You can also try combining some of the analog RNG methods we used last week like dice or yarrow stalks to "seed" Processing's `random()` function!
 
+
 <hr>
+
 
 ## HOMEWORK  
 For the last four weeks of the semester, you'll be working on a larger-scale, self-proposed project that explores chance and randomness. The medium, approach, and idea you work from is completely up to you, but I encourage you to think about a project that connects what we've talked about so far with your own creative practice. The work should show four week's effort, but that might be a single large work, lots of smaller pieces that form a series, or a small but labor-intensive project. Our last class meeting will be a critique of that work.
