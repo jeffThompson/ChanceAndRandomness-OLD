@@ -23,7 +23,7 @@ Today we'll start with some Processing basics (and/or a refresher for those of y
 - Drawing a robot  
 - Lunch break  
 - For-loops and `random()`  
-- Homework  
+- Homework and reading  
 
 <hr>
 
@@ -83,4 +83,8 @@ Your proposal should include:
 - Who: what artists, designers, musicians, and other creative work inspires this project and your work generally; include not just names but a short explanation (2–3 examples, though more is ok!)  
 
 Please print your proposals and bring them to class next week. You should also start the project: ideation, prototyping, sketching, mockups, research, and/or materials-gathering. We'll discuss your project ideas next class, followed by further explorations of randomness in code.
+
+
+## READING  
+Please also read the excerpt from James Gleick's amazing book *The Information*, located in this week's `Readings` folder. It discusses how researchers in the 20th-century began to think about randomness and order, which will lead us into one more reading next time about entropy.
 
