@@ -12,21 +12,21 @@ The simplest iteration structure is the while-loop. Its first use dates to some 
 The basic structure of a while-loop:
 
     while (condition) {
-    	// do something
+      // do something
     }
 
 The loop will repeat until the condition is met; if it never is, the loop runs forever! Typically, we might keep track of a count, stopping the loop when a certain value is reached:
 
     count = 0
     while (count < 5) {
-    	// take a step forward
-    	count = count + 1
+      // take a step forward
+      count = count + 1
     }
 
 While-loops can also be intentionally infinite. This might be used for an interactive project where the program should run forever:
 
     while (true) {
-    	// display graphics, read the mouse, etc
+      // display graphics, read the mouse, etc
     }
 
 
@@ -36,21 +36,21 @@ More common today is the for-loop, which combines the syntax of the while-loop i
 The structure of a for-loop combines the initial value, condition to stop, and increment of the while-loop into a single statement:
 
     for (initial value; stopping condition; increment) {
-    	// do something
+      // do something
     }
 
 Below is the same counting-based loop we saw above:
 
     for (count=0; count<5; count=count+1) {
-    	// take a step forward
+      // take a step forward
     }
 
 We can also combine two for-loops into a two-dimensional loop! While this sounds crazy, it's how we do things like draw a grid:
 
     for (y=0; y<height; y=y+10) {
-    	for (x=0; x<width; x=x+10) {
-    		// draw a square at x/y that is 10x10 pixels
-    	}
+      for (x=0; x<width; x=x+10) {
+        // draw a square at x/y that is 10x10 pixels
+      }
     }
 
 For examples of how this works in Processing, see this week's `Code` folder.
