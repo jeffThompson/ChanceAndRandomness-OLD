@@ -6,7 +6,7 @@ This week we'll continue our look at randomness in the computer as a tool for cr
 
 Von Neumann's now-famous quote was meant to highlight the fact that, even if we can't see a pattern, that doesn't mean one doesn't exist. But digging deeper into places where random numbers are really important, like cryptography, we find a long history of people trying to quantify *how* random a sequence of numbers actually is. In other words: we can measure randomness! Of course, a single number means nothing on its own, so researchers look at sequences of numbers and apply a variety of statistical tests to determine how random the sequence is. 
 
-The most famous example of this is Rand Corporation's 1955 book *A Million Random Digits* which is just that: a book of one million very random numbers. Having generated their numbers using a General Radio Company Type 1390-B Random Noise Generator (a tube-driven device meant for radio stations), the resulting values were subjected to four tests using a computer – a very slow a laborious process in the mid-1950s. Today, the [National Institute of Standards and Technology's *Dieharder* software suite](https://webhome.phy.duke.edu/~rgb/General/dieharder.php) includes 80 different high-quality random number generators with some lovely names: `threefish`, `transputer`, `superkiss`, and `R_super_duper`. Programmer/artist kynd has [this great website](https://kynd.github.io/p5sketches/random.html) that visualizes some of these generation methods. *Dieharder* and *ENT* (a software suite from the National Institute of Standards and Technology) offer a range of tests with strange names: `Chi-Squared`, `Monte Carlo Pi`, `OPERM5`, `STS Runs`, and `RGB Lagged Sums`.
+The most famous example of this is [Rand Corporation's 1955 book *A Million Random Digits*](https://www.rand.org/pubs/monograph_reports/MR1418.html) which is just that: a book of one million very random numbers. Having generated their numbers using a General Radio Company Type 1390-B Random Noise Generator (a tube-driven device meant for radio stations), the resulting values were subjected to four tests using a computer – a very slow a laborious process in the mid-1950s. Today, the [*Dieharder* software suite](https://webhome.phy.duke.edu/~rgb/General/dieharder.php) includes 80 different high-quality random number generators with some lovely names: `threefish`, `transputer`, `superkiss`, and `R_super_duper`. Programmer/artist kynd has [this great website](https://kynd.github.io/p5sketches/random.html) that visualizes some of these generation methods. *Dieharder* and *ENT* (a software suite from the National Institute of Standards and Technology) offer a range of tests with strange names: `Chi-Squared`, `Monte Carlo Pi`, `OPERM5`, `STS Runs`, and `RGB Lagged Sums`.
 
 There are also analog means of generating very random numbers. [Random.org's website](https://www.random.org/history) has used two untuned FM radios, which pick up noise in the upper atmosphere, for many years; [Lavarand](https://en.wikipedia.org/wiki/Lavarand) similarly used lava lamp blobs and a webcam! Directly in the computer, [entropy (essentially noise) from hard-drives](https://en.wikipedia.org/wiki/Entropy_(computing)) has also been used.
 
@@ -64,7 +64,7 @@ There are also lots of optional readings in the folder for this week on the idea
 <hr>
 
 
-### WHITE NOISE GENERATORS  
+## WHITE NOISE GENERATORS  
 Below is info on the white noise generators we listened to in class today...
 
 ***Type 1390-B***  
@@ -97,9 +97,9 @@ Then install `dieharder`:
 
     brew install dieharder  
 
-That's it! You can test the install by typing in `dieharder --h`; you should get instructions on the software. To test a file, type this command (replacing `<filename>` with the path to your file):  
+That's it! You can test the install by typing in `dieharder --h` — you should get instructions on the software. To test a file's randomness, type this command (replacing `<filename>` with the path to your file):  
 
     dieharder -a -f <filename>
 
-This may take a while!
+This may take a while! Use the `--h` (help) command for more info and options.
 
