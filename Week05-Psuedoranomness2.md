@@ -103,3 +103,15 @@ That's it! You can test the install by typing in `dieharder --h` — you should 
 
 This may take a while! Use the `--h` (help) command for more info and options.
 
+
+## WANT TO READ SOME HARD-DRIVE ENTROPY?  
+On a Mac (or Linux) you can also read hard-drive entropy, which is a great source of random numbers. In the Terminal, type:
+
+    echo $RANDOM
+
+This will print one random value using `/dev/urandom`, a program built into your operating system. To create more values, try:
+
+    od -d /dev/urandom
+
+This will continuously spit out random decimal numbers until you type `control + c` to stop it!
+
