@@ -37,12 +37,12 @@ Critique of homework, Chaos Game, dice drawings, analog random value generators
 Critique of homework, final project ideation session, introduction to Processing, drawing basics, loops, random values  
 
 **WEEK 5 (NOV 22): [PSEUDORANDOMNESS 2](https://github.com/jeffThompson/ChanceAndRandomness/blob/master/Week05-Psuedoranomness2.md)**  
-Further Processing demos, plotter demo  
+Further Processing demos, prepping files for the plotter  
 
 \[ Thanksgiving break, no class \]
 
 **WEEK 6 (DEC 6): ENTROPY, CODE 3**  
-Feedback session on work in progress, work day
+Feedback session on work in progress, listening session, outputting sketches to the plotter, work day on final project  
 
 **WEEK 7 (DEC 13): FINAL CRITIQUE**  
 Work time, critique of finished projects
