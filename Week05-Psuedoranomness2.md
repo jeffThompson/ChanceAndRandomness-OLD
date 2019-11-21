@@ -56,7 +56,7 @@ This afternoon we'll wrap up our Processing demos and have time for you to conti
 
 
 ## READING  
-For next time, please read the chapter from James Gleick's book *The Information*. It extends the reading from the same book last week but focuses on the ways scientists think of randomness as information-bearing and order as having very little information – a flip from what we might intuitively think.
+For next time, please read the chapter from James Gleick's book *The Information*. It extends the reading from the same book last week but focuses on the ways scientists think of randomness as information-bearing and order as having very little information – a flip from what we might intuitively think. Please prepare 1–2 questions/responses we can discuss next week. In particular, think about the trajectory we've had this semester from chance to randomness to information.
 
 There are also lots of optional readings in the folder for this week on the idea of information and entropy. This includes Claude Shannon's seminal 1948 paper *A Mathematical Theory of Communication*. Feel free to browse through them if that's of interest!
 
