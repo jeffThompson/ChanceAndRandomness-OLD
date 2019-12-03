@@ -41,7 +41,7 @@ Further Processing demos, prepping files for the plotter
 
 \[ Thanksgiving break, no class \]
 
-**WEEK 6 (DEC 6): ENTROPY, CODE 3**  
+**WEEK 6 (DEC 6): [ENTROPY, CODE 3](https://github.com/jeffThompson/ChanceAndRandomness/blob/master/Week06-EntropyAndInformation.md)**  
 Feedback session on work in progress, listening session, outputting sketches to the plotter, work day on final project  
 
 **WEEK 7 (DEC 13): FINAL CRITIQUE**  
